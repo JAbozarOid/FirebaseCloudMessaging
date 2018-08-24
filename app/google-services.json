@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "6521694436",
+    "firebase_url": "https://tabianconsulting-e8aa0.firebaseio.com",
+    "project_id": "tabianconsulting-e8aa0",
+    "storage_bucket": "tabianconsulting-e8aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6521694436:android:844d4fdda2bbcd2a",
+        "android_client_info": {
+          "package_name": "com.example.tabianconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6521694436-p7jkar92814auhe8i3klakolbeev149o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcuIbWx-zXDLxPj_z5xBoxqzQ46ozAek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
